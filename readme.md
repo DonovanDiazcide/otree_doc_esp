@@ -553,6 +553,6 @@ pip install sphinx-rtd-theme
 
 ---
 
-**Autor**: Proceso automatizado  
+**Autor**: Donovan Díaz
 **Fecha**: Diciembre 2025  
 **Versión**: 1.0
